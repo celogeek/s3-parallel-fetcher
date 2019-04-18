@@ -1,0 +1,29 @@
+{
+  "name": "s3-parallel-fetcher",
+  "version": "1.0.0",
+  "description": "Parallel fetcher for s3 directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Celogeek",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "aws-sdk": "^2.439.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celogeek/s3-parallel-fetcher.git"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "fetcher",
+    "parallel"
+  ],
+  "bugs": {
+    "url": "https://github.com/celogeek/s3-parallel-fetcher/issues"
+  },
+  "homepage": "https://github.com/celogeek/s3-parallel-fetcher#readme"
+}
